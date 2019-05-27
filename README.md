@@ -1,6 +1,6 @@
-# huellas
+# Huellas
 
-**PRIMER AVANCE DEL TRABAJO**
+
 
 **CURSO:** PROGRAMACIÓN MULTIPLATAFORMA
 
